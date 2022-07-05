@@ -1,0 +1,6 @@
+node_modules
+images/
+images/.DS_Store
+images/transport-logistiek.jpg
+.DS_Store
+*.scss

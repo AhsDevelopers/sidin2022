@@ -1,0 +1,23 @@
+{
+  "name": "sidin2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdmgent/sidin2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdmgent/sidin2021/issues"
+  },
+  "homepage": "https://github.com/gdmgent/sidin2021#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-pro": "^5.15.4",
+    "mediabox": "1.1.3"
+  }
+}
